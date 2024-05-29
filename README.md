@@ -1,7 +1,6 @@
 # MERN Task Manager
 
 A MERN application for basic tasks management.
-![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
 ## Table of Contents
 
@@ -10,7 +9,6 @@ A MERN application for basic tasks management.
 - [Dependencies](#dependencies)
 - [Dev-dependencies](#dev-dependencies)
 - [Prerequisites](#prerequisites)
-- [Installation and setup](#installation-and-setup)
 - [Backend API](#backend-api)
 - [frontend pages](#frontend-pages)
 - [npm scripts](#npm-scripts)
@@ -96,23 +94,6 @@ Following are the major dev-dependencies of the project:
 - You should have a MongoDB database.
 - You should have a code editor (preferred: VS Code)
 
-## Installation and Setup
-
-1. Install all the dependencies
-
-   ```sh
-   npm run install-all
-   ```
-
-2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
-
-3. Start the application
-
-   ```sh
-   npm run dev
-   ```
-
-4. Go to http://localhost:3000
 
 ## Backend API
 
@@ -139,13 +120,6 @@ Following are the major dev-dependencies of the project:
 
 ## npm scripts
 
-At root:
-
-- `npm run dev`: Starts both backend and frontend
-- `npm run dev-server`: Starts only backend
-- `npm run dev-client`: Starts only frontend
-- `npm run install-all`: Installs all dependencies and dev-dependencies required at root, at frontend and at backend.
-
 Inside frontend folder:
 
 - `npm start`: Starts frontend in development mode
@@ -162,7 +136,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
+  - Github Repo: https://github.com/Punit-Shinde/MERN-WorkFlow-Wizard
 
 - Official Docs
 
@@ -189,5 +163,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: punitshinde1@gmail.com
+- Linkedin: https://www.linkedin.com/in/punit-shinde/
